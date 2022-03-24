@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header, footer{
+    background-color: #1f2937;
+    font-size: 24px;
+    color: #f9faf8;
+}
+.hero{
+    font-size: 48px;
+    font-weight: bolder;
+}
+.hero>div>p, .hero>div>button, .placeholder {
+    font-size: 18px;
+    color: #e5e7eb;
+    font-weight: normal;
+}
+.ad, button {
+    color: #f9faf8;
+    background-color: #3882f6;
+}
+.ad{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+.quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+footer {
+    font-size: 16px;
+}
